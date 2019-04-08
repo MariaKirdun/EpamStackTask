@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">StackTask</string>
+    <string name="NewStackElement">New Stack Element</string>
+    <string name="Pop">Pop</string>
+    <string name="Push">Push</string>
+</resources>
